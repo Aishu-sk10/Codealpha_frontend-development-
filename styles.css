@@ -1,0 +1,31 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    background: #222;
+    color: white;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+section {
+    padding: 50px;
+}
+
+section:hover {
+    background: #f2f2f2;
+}
+
+footer {
+    background: #222;
+    color: white;
+    padding: 15px;
+}
